@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ Competitive Programmer | Backned Developer<br>.<br>🌱 I’m currently learning more about Machine Learning and Web Development.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost  3 hours listening to songs every day.
+🖥️ Competitive Programmer | Backned Developer<br>🌱 I’m currently learning more about Machine Learning and Web Development.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost  3 hours listening to songs every day.
 
 
 ## 🌐 Socials:
