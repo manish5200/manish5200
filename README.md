@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ Competitive Programmer | Backned Developer<br>😄.<br>🌱 I’m currently learning more about Machine Learning and Web Development.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost  3 hours listening to songs every day.
+🖥️ Competitive Programmer | Backned Developer<br>.<br>🌱 I’m currently learning more about Machine Learning and Web Development.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost  3 hours listening to songs every day.
 
 
 ## 🌐 Socials:
@@ -22,12 +22,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=manish5200&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## 👀 Profile Views
-
-<img src="https://visitcount.itsvg.in/api?id=manish5200&icon=2&color=6" />
-
----
 
 ⭐️ *If you like my work, consider following or starring my repositories!*  
 
