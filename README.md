@@ -1,66 +1,46 @@
-# Manish Kumar Singh 👋  
-**Backend Engineer | Systems Thinker | GenAI-Curious Developer**
+# 💫 About Me
 
-📍 India | 🌍 Open to Remote & Relocation  
-📫 Reach me via LinkedIn / X below  
-
----
-
-## 🚀 Professional Snapshot
-
-Backend-focused Software Engineer with a strong foundation in **Data Structures, System Design, and Scalable Backend Architecture**.  
-I build **production-grade systems** that prioritize **data integrity, performance, and future scalability**, while actively expanding into **Machine Learning & GenAI-driven systems**.
+🖥️ Competitive Programmer | Backend & Web Developer  
+😄 Pronouns: He/Him  
+🔭 Currently building **Frontier**  
+🌱 Learning **Machine Learning** & **Scalable Web Systems**  
+📫 Reach me via socials below  
+⚡ Fun fact: I spend ~3 hours a day listening to music 🎧  
 
 ---
 
-## 🧠 What I Work On
+## 🌐 Socials
 
-- Designing **read-optimized, transaction-safe backend services**
-- Modeling databases with the right balance of **normalization vs performance**
-- Building **microservice-ready domains**
-- Learning and integrating **ML models into real backend workflows**
-
-> *I believe ML models don’t live in notebooks — they live behind APIs.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/maniish5200)
+[![X](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white)](https://x.com/manish5200_)
 
 ---
 
-## 🏗️ Architecture & Engineering Principles
-
-- **Design for scale, not demos**
-- **Reads are fast, writes are safe**
-- **Loose coupling beats convenience**
-- **Schemas evolve, APIs must survive**
-
----
-
-## 🛒 Featured Project – SmartCart (Marketplace Backend)
-
-- 🌳 Recursive category modeling using **Adjacency List**
-- 📉 Read-optimized **denormalization** for product ratings
-- 🛡️ **ACID-compliant transactions** for inventory, SKU & slug workflows
-- 🔗 Domain isolation using raw IDs for **microservice readiness**
-
-🔗 GitHub: [Your GitHub Link]
-
----
-
-## ⚙️ Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
 
-### Backend & Databases
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=spring&logoColor=white)
+### Backend & Tools
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=plastic&logo=express&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=plastic&logo=npm&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-323330?style=plastic&logo=nodemon&logoColor=BBDEAD)
+
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
 
 ### ML / Data
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
+
+### Other
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-121013?style=plastic&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white)
 
 ---
 
@@ -74,19 +54,34 @@ I build **production-grade systems** that prioritize **data integrity, performan
 
 ---
 
-## 📈 Activity & Impact
+## 📈 GitHub Activity Graph (Realtime)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=manish5200&theme=minimal" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=manish5200&theme=flat&no-frame=true" />
+---
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=manish5200&theme=flat&no-frame=true&margin-w=10" />
 
 ---
 
-## 🌐 Connect With Me
+## ✍️ Random Dev Quote
 
-[LinkedIn](https://linkedin.com/in/maniish5200)  
-[X / Twitter](https://x.com/manish5200_)  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 
 ---
 
-⭐️ *If you like scalable backend systems, ML-driven ideas, or clean architecture — you’ll probably like my work.*
+## 🔝 Top Contributions
+
+<img src="https://github-contributor-stats.vercel.app/api?username=manish5200&limit=5&theme=discord&combine_all_yearly_contributions=true" />
+
+---
+
+## 👀 Profile Views
+
+<img src="https://visitcount.itsvg.in/api?id=manish5200&icon=2&color=6" />
+
+---
+
+⭐️ *If you like my work, consider following or starring my repositories!*  
