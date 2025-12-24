@@ -51,18 +51,8 @@
 ## 📈 GitHub Activity Graph (Realtime)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=manish5200&theme=minimal" />
-
----
-
-### ✍️ Random Dev Quote
-!
-
-### 🔝 Top Contributed Repo
-!
-
 ---
 [!](https://visitcount.itsvg.in)
-
 
 ⭐️ *If you like my work, consider following or starring my repositories!*  
 
