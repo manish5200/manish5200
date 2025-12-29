@@ -52,7 +52,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=manish5200&theme=minimal" />
 ---
-[!](https://visitcount.itsvg.in)
 
 ⭐️ *If you like my work, consider following or starring my repositories!*  
 
