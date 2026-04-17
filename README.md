@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a1628,60:0f2942,100:1f6feb&height=240&section=header&text=Manish%20Singh&fontSize=62&fontColor=ffffff&fontAlignY=38&fontWeight=800&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Competitive%20Programmer&descAlignY=57&descSize=16&descColor=58a6ff&animation=fadeIn&stroke=1f6feb&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a1628,60:0f2942,100:1f6feb&height=260&section=header&text=Manish%20Singh&fontSize=68&fontColor=ffffff&fontAlignY=36&fontWeight=800&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Competitive%20Programmer&descAlignY=54&descSize=17&descColor=58a6ff&animation=fadeIn&stroke=1f6feb&strokeWidth=2" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot+%F0%9F%92%BB;Microservices+%7C+Distributed+Systems+%F0%9F%8C%90;Event-Driven+Architecture+%7C+Kafka+%26+RabbitMQ+%F0%9F%9A%80;Competitive+Programmer+%7C+DSA+%26+Algorithms+%F0%9F%A7%A0;B.Tech+CS+%40+MNNIT+Allahabad+%F0%9F%8F%9B%EF%B8%8F;Building+Scalable%2C+Secure%2C+Resilient+APIs+%F0%9F%94%A7;Open+to+SDE+Roles+%E2%80%94+Lets+Build+Something+Big!+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,10 +23,6 @@
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot+%F0%9F%92%BB;Microservices+%7C+Distributed+Systems+%F0%9F%8C%90;Event-Driven+Architecture+%7C+Kafka+%26+RabbitMQ+%F0%9F%9A%80;Competitive+Programmer+%7C+DSA+%26+Algorithms+%F0%9F%A7%A0;Building+Scalable%2C+Secure%2C+Resilient+APIs+%F0%9F%94%A7;Open+to+SDE+Roles+%E2%80%94+Lets+Build+Something+Big!+%E2%9A%A1)](https://git.io/typing-svg)
-
-<br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=manish5200&style=flat-square&color=1f6feb&label=Profile+Views)&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/manish5200?style=flat-square&color=1f6feb&label=Followers&logo=github)&nbsp;
 ![GitHub stars](https://img.shields.io/github/stars/manish5200?style=flat-square&color=f0c040&label=Total+Stars&logo=github)
@@ -34,37 +34,55 @@
 ## `$ whoami`
 
 ```yaml
-+----------------------------------------------------------+
-|                                                          |
-|   name       : Manish Singh                             |
-|   role       : Backend Engineer & Competitive Programmer|
-|   location   : India                                    |
-|   education  : B.Tech (CS / IT)                         |
-|                                                          |
-|   building   :                                          |
-|     > Production-grade microservices with Spring Boot   |
-|     > Event-driven systems with Kafka & RabbitMQ        |
-|     > Secure REST APIs - JWT, OAuth 2.0, Rate Limiting  |
-|     > Real-time order tracking & logistics systems      |
-|                                                          |
-|   learning   :                                          |
-|     > Generative AI & Prompt Engineering                |
-|     > NLP Fundamentals & PyTorch                        |
-|     > Cloud-Native Architecture (AWS/GCP)               |
-|                                                          |
-|   open_to    : SDE Roles | Backend Internships          |
-|   reach_me   : linkedin.com/in/maniish5200              |
-|   fun_fact   : 3hrs of music daily = my debug mode      |
-|                                                          |
-+----------------------------------------------------------+
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   name       : Manish Singh                                  ║
+║   role       : Backend Engineer & Competitive Programmer     ║
+║   location   : India  🇮🇳                                    ║
+║                                                              ║
+║   education  :                                               ║
+║     ▶  B.Tech in Computer Science & Engineering              ║
+║     ▶  Motilal Nehru National Institute of Technology        ║
+║        (MNNIT Allahabad) — NIT Tier-1 Institute              ║
+║                                                              ║
+║   building   :                                               ║
+║     ▶  Production-grade microservices with Spring Boot       ║
+║     ▶  Event-driven systems with Kafka & RabbitMQ            ║
+║     ▶  Secure REST APIs — JWT, OAuth 2.0, Rate Limiting      ║
+║     ▶  Real-time order tracking & logistics systems          ║
+║                                                              ║
+║   learning   :                                               ║
+║     ▶  Generative AI & Prompt Engineering                    ║
+║     ▶  NLP Fundamentals & PyTorch                            ║
+║     ▶  Cloud-Native Architecture (AWS / GCP)                 ║
+║                                                              ║
+║   open_to    : SDE Roles | Backend Internships               ║
+║   reach_me   : linkedin.com/in/maniish5200                   ║
+║   fun_fact   : 3 hrs of music daily = my debug mode 🎧       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## Tech Arsenal
+## 🏛️ Education
+
+<div align="center">
+
+| 🎓 Degree | 🏫 Institution | 📍 Location | 📅 Year |
+|:---:|:---:|:---:|:---:|
+| **B.Tech — Computer Science & Engineering** | **Motilal Nehru National Institute of Technology (MNNIT Allahabad)** | Prayagraj, Uttar Pradesh | 2022 – 2026 |
+
+> *MNNIT Allahabad is a premier NIT — an Institute of National Importance under the Government of India.*
+
+</div>
+
+---
+
+## ⚔️ Tech Arsenal
 
 <details open>
-<summary><b>Languages & CS Fundamentals</b></summary>
+<summary><b>🔵 Languages & CS Fundamentals</b></summary>
 <br/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -80,7 +98,7 @@
 </details>
 
 <details open>
-<summary><b>Backend, Frameworks & Architecture</b></summary>
+<summary><b>🟢 Backend, Frameworks & Architecture</b></summary>
 <br/>
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -95,7 +113,7 @@
 </details>
 
 <details open>
-<summary><b>Security, Auth & API Standards</b></summary>
+<summary><b>🔒 Security, Auth & API Standards</b></summary>
 <br/>
 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -107,7 +125,7 @@
 </details>
 
 <details open>
-<summary><b>Databases, Caching & Storage</b></summary>
+<summary><b>🗄️ Databases, Caching & Storage</b></summary>
 <br/>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -121,7 +139,7 @@
 </details>
 
 <details open>
-<summary><b>Messaging, Events & Distributed Systems</b></summary>
+<summary><b>📨 Messaging, Events & Distributed Systems</b></summary>
 <br/>
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
@@ -133,7 +151,7 @@
 </details>
 
 <details open>
-<summary><b>DevOps, Observability & Tooling</b></summary>
+<summary><b>🛠️ DevOps, Observability & Tooling</b></summary>
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -150,7 +168,7 @@
 </details>
 
 <details open>
-<summary><b>AI / ML & Emerging Tech</b></summary>
+<summary><b>🤖 AI / ML & Emerging Tech</b></summary>
 <br/>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -164,7 +182,7 @@
 
 ---
 
-## GitHub Analytics - Live
+## 📊 GitHub Analytics — Live
 
 <div align="center">
 
@@ -180,7 +198,7 @@
 
 ---
 
-## GitHub Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -190,7 +208,7 @@
 
 ---
 
-## Competitive Programming
+## 🧠 Competitive Programming
 
 <div align="center">
 
@@ -204,7 +222,7 @@
 
 ```
   DSA Mastery Map  (Java + C++)
-  =================================================================
+  ═══════════════════════════════════════════════════════════════
   Arrays & Strings     ████████████████████████  Expert   [★★★★★]
   Trees & Graphs       ███████████████████████░  Advanced [★★★★☆]
   Dynamic Programming  ██████████████████████░░  Advanced [★★★★☆]
@@ -213,15 +231,15 @@
   Binary Search        ████████████████████████  Expert   [★★★★★]
   Heaps & Priority Q   ████████████████████░░░░  Strong   [★★★★☆]
   Segment Trees / BIT  ████████████████░░░░░░░░  Growing  [★★★☆☆]
-  =================================================================
+  ═══════════════════════════════════════════════════════════════
 ```
 
 ---
 
-## Backend Engineering Depth
+## 🔧 Backend Engineering Depth
 
 ```
-  =================================================================
+  ═══════════════════════════════════════════════════════════════
   Microservices & API Design      █████████████████████████  95%
   Spring Boot / Spring Security   █████████████████████████  95%
   JPA / Hibernate / Query Tuning  ████████████████████████░  92%
@@ -233,52 +251,52 @@
   Prometheus & Grafana Metrics    ████████████████░░░░░░░░░  65%
   Docker & CI/CD Pipelines        ████████████████░░░░░░░░░  65%
   Generative AI & ML              █████████████░░░░░░░░░░░░  52%  [Learning]
-  =================================================================
+  ═══════════════════════════════════════════════════════════════
 ```
 
 ---
 
-## Systems I Think In
+## 🏗️ Systems I Think In
 
 ```
-                      +------------------------------+
-                      |  Client / Frontend / Mobile  |
-                      +-------------+----------------+
-                                    | HTTPS
-                      +-------------v----------------+
-                      |      API Gateway / Nginx     |
-                      |  (Rate Limiting · TLS)       |
-                      +---+----------------------+---+
-                          | Route                | Route
-             +------------v------+   +-----------v--------+
-             |  Order Service    |   |  Product Service   |
-             |  (Spring Boot)    |   |  (Spring Boot)     |
-             +---------+---------+   +----------+---------+
-                       | Publish                | Publish
-             +---------v-----------------------v---------+
-             |         Kafka / RabbitMQ Bus              |
-             |   (Async · Durable · Event-Driven)        |
-             +------+-----------------------------+------+
-                    | Subscribe              | Subscribe
-         +----------v------+    +-----------v-----------+
-         |  Notif Service  |    |    Payment Service    |
-         | (Email · Push)  |    |  (Razorpay · Refund) |
-         +--------+--------+    +----------+-----------+
-                  |                        |
-      +-----------v------------------------v-----------+
-      |  PostgreSQL     Redis Cache      MongoDB       |
-      | (Primary DB)  (Sessions/JWT)  (Product Search)|
-      +--------------------------------------------------+
-                  |
-      +-----------v----------------------------------+
-      |   Prometheus + Grafana                      |
-      |   (Metrics · Alerts · Dashboards)           |
-      +----------------------------------------------+
+                      ┌──────────────────────────────────┐
+                      │   Client / Frontend / Mobile      │
+                      └───────────────┬──────────────────┘
+                                      │ HTTPS
+                      ┌───────────────▼──────────────────┐
+                      │       API Gateway / Nginx         │
+                      │   (Rate Limiting · JWT · TLS)     │
+                      └──────┬─────────────────┬──────────┘
+                             │ Route            │ Route
+               ┌─────────────▼────┐  ┌──────────▼──────────┐
+               │  Order Service   │  │  Product Service     │
+               │  (Spring Boot)   │  │  (Spring Boot)       │
+               └────────┬─────────┘  └──────────┬──────────┘
+                        │ Publish                │ Publish
+               ┌────────▼────────────────────────▼────────┐
+               │         Kafka / RabbitMQ Bus              │
+               │   (Async · Durable · Event-Driven)        │
+               └──────┬──────────────────────┬────────────┘
+                      │ Subscribe             │ Subscribe
+          ┌───────────▼──────┐   ┌────────────▼──────────┐
+          │  Notif Service   │   │    Payment Service     │
+          │  (Email · Push)  │   │  (Razorpay · Refund)  │
+          └────────┬─────────┘   └──────────┬────────────┘
+                   │                         │
+       ┌───────────▼─────────────────────────▼──────────┐
+       │  PostgreSQL      Redis Cache       MongoDB      │
+       │  (Primary DB)  (Sessions/JWT)  (Product Search)│
+       └───────────────────────┬────────────────────────┘
+                               │
+       ┌───────────────────────▼────────────────────────┐
+       │   Prometheus + Grafana                          │
+       │   (Metrics · Alerts · Dashboards)               │
+       └─────────────────────────────────────────────────┘
 ```
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -287,38 +305,38 @@
 </div>
 
 ```
-  CognitoCart - Production-Grade E-Commerce Platform
-  =====================================================================
+  CognitoCart — Production-Grade E-Commerce Platform
+  ═══════════════════════════════════════════════════════════════
   Stack    : Java 21 · Spring Boot 3.x · PostgreSQL · Redis
   Security : JWT + OAuth 2.0 (Google) · Bucket4j Rate Limiting
   Events   : RabbitMQ DLQ · Webhook Integration (Razorpay)
   Features : Real-time shipment tracking · AI semantic search
              Seller KYC · PDF invoice generation · Email system
   Observ.  : Prometheus metrics · Actuator health endpoints
-  =====================================================================
+  ═══════════════════════════════════════════════════════════════
 ```
 
 ---
 
-## Engineering Principles I Live By
+## 💡 Engineering Principles I Live By
 
 <div align="center">
 
 | Principle | How I Apply It |
 |:---:|---|
-| **Design Before Code** | Schema, API contracts, and sequence diagrams before any implementation |
-| **Performance First** | Cache aggressively, index smartly, JOIN FETCH to kill N+1 queries |
-| **Security at Every Layer** | JWT + refresh tokens, HMAC webhook signatures, input validation everywhere |
-| **Clean Architecture** | SOLID principles, separation of concerns, typed exceptions always |
-| **Observability Built-in** | Every service ships with Prometheus metrics, structured logs, health checks |
-| **Resilience by Design** | Idempotency guards, dead letter queues, retry policies, terminal state guards |
-| **Document As You Build** | Swagger annotations, inline comments explaining why not just what |
+| 🎯 **Design Before Code** | Schema, API contracts, and sequence diagrams before any implementation |
+| ⚡ **Performance First** | Cache aggressively, index smartly, JOIN FETCH to kill N+1 queries |
+| 🔐 **Security at Every Layer** | JWT + refresh tokens, HMAC webhook signatures, input validation everywhere |
+| 🏛️ **Clean Architecture** | SOLID principles, separation of concerns, typed exceptions always |
+| 📈 **Observability Built-in** | Every service ships with Prometheus metrics, structured logs, health checks |
+| 🛡️ **Resilience by Design** | Idempotency guards, dead letter queues, retry policies, terminal state guards |
+| 📝 **Document As You Build** | Swagger annotations, inline comments explaining *why*, not just *what* |
 
 </div>
 
 ---
 
-## Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -334,7 +352,7 @@
 
 ---
 
-## Today's Engineering Quote
+## 💬 Today's Engineering Quote
 
 <div align="center">
 
@@ -344,22 +362,22 @@
 
 ---
 
-## Let's Connect & Build
+## 📬 Let's Connect & Build
 
 <div align="center">
 
 ```
-  +--------------------------------------------------------------+
-  |                                                              |
-  |   Actively looking for Backend / SDE roles                  |
-  |                                                              |
-  |   If you are building something ambitious and need someone   |
-  |   who thinks in systems, writes production-grade APIs,       |
-  |   and cares deeply about performance & resilience —          |
-  |                                                              |
-  |                    Let's talk.                               |
-  |                                                              |
-  +--------------------------------------------------------------+
+  ╔════════════════════════════════════════════════════════════╗
+  ║                                                            ║
+  ║   🎯  Actively looking for Backend / SDE roles            ║
+  ║                                                            ║
+  ║   If you are building something ambitious and need         ║
+  ║   someone who thinks in systems, writes production-grade   ║
+  ║   APIs, and cares deeply about performance & resilience —  ║
+  ║                                                            ║
+  ║                    Let's talk. 🤝                          ║
+  ║                                                            ║
+  ╚════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
@@ -370,7 +388,7 @@
 
 <br/>
 
-> If my work impressed you - drop a star on any repo. It genuinely means a lot!
+> ⭐ If my work impressed you — drop a star on any repo. It genuinely means a lot!
 
 </div>
 
@@ -378,7 +396,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1f6feb,50:0f2942,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!%20Lets%20build%20something%20great.&fontSize=18&fontColor=58a6ff&fontAlignY=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1f6feb,50:0f2942,100:0d1117&height=160&section=footer&text=Thanks%20for%20visiting!%20Let%27s%20build%20something%20great.&fontSize=18&fontColor=58a6ff&fontAlignY=60&animation=fadeIn" />
 
 </div>
-'@
