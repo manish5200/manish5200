@@ -1,4 +1,3 @@
-Set-Content -Path "D:\Projects\APIs\cognitocart\github_profile_readme.md" -Encoding UTF8 -Value @'
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a1628,60:0f2942,100:1f6feb&height=240&section=header&text=Manish%20Singh&fontSize=62&fontColor=ffffff&fontAlignY=38&fontWeight=800&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Competitive%20Programmer&descAlignY=57&descSize=16&descColor=58a6ff&animation=fadeIn&stroke=1f6feb&strokeWidth=2" />
