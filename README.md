@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a1628,60:0f2942,100:1f6feb&height=260&section=header&text=Manish%20Singh&fontSize=68&fontColor=ffffff&fontAlignY=36&fontWeight=800&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Competitive%20Programmer&descAlignY=54&descSize=17&descColor=58a6ff&animation=fadeIn&stroke=1f6feb&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a1628,60:0f2942,100:1f6feb&height=280&section=header&text=Manish%20Singh&fontSize=72&fontColor=ffffff&fontAlignY=36&fontWeight=800&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Competitive%20Programmer&descAlignY=54&descSize=18&descColor=58a6ff&animation=fadeIn&stroke=1f6feb&strokeWidth=2" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot+%F0%9F%92%BB;Microservices+%7C+Distributed+Systems+%F0%9F%8C%90;Event-Driven+Architecture+%7C+Kafka+%26+RabbitMQ+%F0%9F%9A%80;Competitive+Programmer+%7C+DSA+%26+Algorithms+%F0%9F%A7%A0;B.Tech+CS+%40+MNNIT+Allahabad+%F0%9F%8F%9B%EF%B8%8F;Building+Scalable%2C+Secure%2C+Resilient+APIs+%F0%9F%94%A7;Open+to+SDE+Roles+%E2%80%94+Lets+Build+Something+Big!+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=820&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot+%F0%9F%92%BB;Microservices+%7C+Distributed+Systems+%F0%9F%8C%90;Event-Driven+Architecture+%7C+Kafka+%26+RabbitMQ+%F0%9F%9A%80;Competitive+Programmer+%7C+DSA+%26+Algorithms+%F0%9F%A7%A0;B.Tech+CS+%40+MNNIT+Allahabad+%F0%9F%8F%9B%EF%B8%8F;Building+Scalable%2C+Secure+%26+Resilient+APIs+%F0%9F%94%A7;Open+to+SDE+Roles+%E2%80%94+Let%27s+Build+Something+Big!+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
@@ -34,33 +34,33 @@
 ## `$ whoami`
 
 ```yaml
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   name       : Manish Singh                                  ║
-║   role       : Backend Engineer & Competitive Programmer     ║
-║   location   : India  🇮🇳                                    ║
-║                                                              ║
-║   education  :                                               ║
-║     ▶  B.Tech in Computer Science & Engineering              ║
-║     ▶  Motilal Nehru National Institute of Technology        ║
-║        (MNNIT Allahabad) — NIT Tier-1 Institute              ║
-║                                                              ║
-║   building   :                                               ║
-║     ▶  Production-grade microservices with Spring Boot       ║
-║     ▶  Event-driven systems with Kafka & RabbitMQ            ║
-║     ▶  Secure REST APIs — JWT, OAuth 2.0, Rate Limiting      ║
-║     ▶  Real-time order tracking & logistics systems          ║
-║                                                              ║
-║   learning   :                                               ║
-║     ▶  Generative AI & Prompt Engineering                    ║
-║     ▶  NLP Fundamentals & PyTorch                            ║
-║     ▶  Cloud-Native Architecture (AWS / GCP)                 ║
-║                                                              ║
-║   open_to    : SDE Roles | Backend Internships               ║
-║   reach_me   : linkedin.com/in/maniish5200                   ║
-║   fun_fact   : 3 hrs of music daily = my debug mode 🎧       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   name       : Manish Singh                                      ║
+║   role       : Backend Engineer & Competitive Programmer         ║
+║   location   : India  🇮🇳                                        ║
+║                                                                  ║
+║   education  :                                                   ║
+║     ▶  B.Tech — Computer Science & Engineering                   ║
+║     ▶  Motilal Nehru National Institute of Technology            ║
+║        (MNNIT Allahabad) — NIT Tier-1 | Batch of 2024           ║
+║                                                                  ║
+║   building   :                                                   ║
+║     ▶  Production-grade microservices with Spring Boot           ║
+║     ▶  Event-driven systems with Kafka & RabbitMQ                ║
+║     ▶  Secure REST APIs — JWT, OAuth 2.0, Rate Limiting          ║
+║     ▶  Real-time order tracking & logistics systems              ║
+║                                                                  ║
+║   learning   :                                                   ║
+║     ▶  Generative AI & Prompt Engineering                        ║
+║     ▶  NLP Fundamentals & PyTorch                                ║
+║     ▶  Cloud-Native Architecture (AWS / GCP)                     ║
+║                                                                  ║
+║   open_to    : SDE Roles | Backend Engineer Positions            ║
+║   reach_me   : linkedin.com/in/maniish5200                       ║
+║   fun_fact   : 3 hrs of music daily = my debug mode 🎧           ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -69,11 +69,13 @@
 
 <div align="center">
 
-| 🎓 Degree | 🏫 Institution | 📍 Location | 📅 Year |
-|:---:|:---:|:---:|:---:|
-| **B.Tech — Computer Science & Engineering** | **Motilal Nehru National Institute of Technology (MNNIT Allahabad)** | Prayagraj, Uttar Pradesh | 2022 – 2026 |
-
-> *MNNIT Allahabad is a premier NIT — an Institute of National Importance under the Government of India.*
+| | Details |
+|:---:|:---|
+| 🎓 **Degree** | B.Tech — Computer Science & Engineering |
+| 🏫 **Institution** | **Motilal Nehru National Institute of Technology, Allahabad (MNNIT Allahabad)** |
+| 📍 **Location** | Prayagraj, Uttar Pradesh, India |
+| 📅 **Batch** | 2020 – 2024 |
+| 🏅 **Category** | Institute of National Importance — NIT Tier-1 |
 
 </div>
 
@@ -202,7 +204,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=manish5200&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+<img src="https://github-profile-trophy.vercel.app/?username=manish5200&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=6" />
 
 </div>
 
@@ -213,7 +215,7 @@
 <div align="center">
 
 | Platform | Handle | Focus Area |
-|:---:|:---:|:---:|
+|:---:|:---:|:---|
 | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black) | [dev_kashivala](https://leetcode.com/u/dev_kashivala/) | DSA · Problem Solving · Contests |
 | ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | Competitive Ratings | Algorithms · Graph Theory |
 | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) | Monthly Contests | DP · Data Structures |
@@ -221,17 +223,17 @@
 </div>
 
 ```
-  DSA Mastery Map  (Java + C++)
-  ═══════════════════════════════════════════════════════════════
-  Arrays & Strings     ████████████████████████  Expert   [★★★★★]
-  Trees & Graphs       ███████████████████████░  Advanced [★★★★☆]
-  Dynamic Programming  ██████████████████████░░  Advanced [★★★★☆]
-  Greedy & Math        ████████████████████████  Expert   [★★★★★]
-  Sliding Window       ████████████████████████  Expert   [★★★★★]
-  Binary Search        ████████████████████████  Expert   [★★★★★]
-  Heaps & Priority Q   ████████████████████░░░░  Strong   [★★★★☆]
-  Segment Trees / BIT  ████████████████░░░░░░░░  Growing  [★★★☆☆]
-  ═══════════════════════════════════════════════════════════════
+  DSA Mastery Map  ——  Java + C++
+  ═══════════════════════════════════════════════════════════════════
+  Arrays & Strings     ████████████████████████░  Expert    [★★★★★]
+  Trees & Graphs       ███████████████████████░░  Advanced  [★★★★☆]
+  Dynamic Programming  ██████████████████████░░░  Advanced  [★★★★☆]
+  Greedy & Math        ████████████████████████░  Expert    [★★★★★]
+  Sliding Window       ████████████████████████░  Expert    [★★★★★]
+  Binary Search        ████████████████████████░  Expert    [★★★★★]
+  Heaps & Priority Q   ████████████████████░░░░░  Strong    [★★★★☆]
+  Segment Trees / BIT  ████████████████░░░░░░░░░  Growing   [★★★☆☆]
+  ═══════════════════════════════════════════════════════════════════
 ```
 
 ---
@@ -239,19 +241,19 @@
 ## 🔧 Backend Engineering Depth
 
 ```
-  ═══════════════════════════════════════════════════════════════
-  Microservices & API Design      █████████████████████████  95%
-  Spring Boot / Spring Security   █████████████████████████  95%
-  JPA / Hibernate / Query Tuning  ████████████████████████░  92%
-  Database Design & Indexing      ████████████████████████░  90%
-  JWT · OAuth 2.0 · Webhooks      ████████████████████████░  90%
-  Redis Caching Strategies        ████████████████████░░░░░  80%
-  Kafka / RabbitMQ Messaging      ████████████████████░░░░░  80%
-  System Design & Scalability     ████████████████████░░░░░  80%
-  Prometheus & Grafana Metrics    ████████████████░░░░░░░░░  65%
-  Docker & CI/CD Pipelines        ████████████████░░░░░░░░░  65%
-  Generative AI & ML              █████████████░░░░░░░░░░░░  52%  [Learning]
-  ═══════════════════════════════════════════════════════════════
+  ═══════════════════════════════════════════════════════════════════
+  Microservices & API Design       █████████████████████████  95%
+  Spring Boot / Spring Security    █████████████████████████  95%
+  JPA / Hibernate / Query Tuning   ████████████████████████░  92%
+  Database Design & Indexing       ████████████████████████░  90%
+  JWT · OAuth 2.0 · Webhooks       ████████████████████████░  90%
+  Redis Caching Strategies         ████████████████████░░░░░  80%
+  Kafka / RabbitMQ Messaging       ████████████████████░░░░░  80%
+  System Design & Scalability      ████████████████████░░░░░  80%
+  Prometheus & Grafana Metrics     ████████████████░░░░░░░░░  65%
+  Docker & CI/CD Pipelines         ████████████████░░░░░░░░░  65%
+  Generative AI & ML               █████████████░░░░░░░░░░░░  52%  [Learning]
+  ═══════════════════════════════════════════════════════════════════
 ```
 
 ---
@@ -259,62 +261,64 @@
 ## 🏗️ Systems I Think In
 
 ```
-                      ┌──────────────────────────────────┐
-                      │   Client / Frontend / Mobile      │
-                      └───────────────┬──────────────────┘
-                                      │ HTTPS
-                      ┌───────────────▼──────────────────┐
-                      │       API Gateway / Nginx         │
-                      │   (Rate Limiting · JWT · TLS)     │
-                      └──────┬─────────────────┬──────────┘
-                             │ Route            │ Route
-               ┌─────────────▼────┐  ┌──────────▼──────────┐
-               │  Order Service   │  │  Product Service     │
-               │  (Spring Boot)   │  │  (Spring Boot)       │
-               └────────┬─────────┘  └──────────┬──────────┘
-                        │ Publish                │ Publish
-               ┌────────▼────────────────────────▼────────┐
-               │         Kafka / RabbitMQ Bus              │
-               │   (Async · Durable · Event-Driven)        │
-               └──────┬──────────────────────┬────────────┘
-                      │ Subscribe             │ Subscribe
-          ┌───────────▼──────┐   ┌────────────▼──────────┐
-          │  Notif Service   │   │    Payment Service     │
-          │  (Email · Push)  │   │  (Razorpay · Refund)  │
-          └────────┬─────────┘   └──────────┬────────────┘
-                   │                         │
-       ┌───────────▼─────────────────────────▼──────────┐
-       │  PostgreSQL      Redis Cache       MongoDB      │
-       │  (Primary DB)  (Sessions/JWT)  (Product Search)│
-       └───────────────────────┬────────────────────────┘
-                               │
-       ┌───────────────────────▼────────────────────────┐
-       │   Prometheus + Grafana                          │
-       │   (Metrics · Alerts · Dashboards)               │
-       └─────────────────────────────────────────────────┘
+                        ┌───────────────────────────────────┐
+                        │    Client / Frontend / Mobile      │
+                        └─────────────────┬─────────────────┘
+                                          │ HTTPS / REST
+                        ┌─────────────────▼─────────────────┐
+                        │        API Gateway / Nginx         │
+                        │    Rate Limiting · JWT · TLS       │
+                        └────────┬─────────────────┬─────────┘
+                                 │ Route            │ Route
+                   ┌─────────────▼──────┐  ┌────────▼────────────┐
+                   │   Order Service    │  │  Product Service     │
+                   │   (Spring Boot)    │  │  (Spring Boot)       │
+                   └──────────┬─────────┘  └──────────┬──────────┘
+                              │ Publish                │ Publish
+                   ┌──────────▼────────────────────────▼─────────┐
+                   │          Kafka / RabbitMQ Event Bus          │
+                   │      Async · Durable · Event-Driven          │
+                   └────────┬─────────────────────────┬──────────┘
+                            │ Subscribe                │ Subscribe
+              ┌─────────────▼──────┐     ┌─────────────▼──────────┐
+              │  Notif Service     │     │    Payment Service      │
+              │  (Email · Push)    │     │  (Razorpay · Refund)   │
+              └──────────┬─────────┘     └──────────┬─────────────┘
+                         │                           │
+          ┌──────────────▼───────────────────────────▼────────────┐
+          │   PostgreSQL (Primary)  │  Redis (Cache/JWT)          │
+          │   MongoDB (Search/Docs) │  Cloudinary (Media)         │
+          └─────────────────────────┬──────────────────────────────┘
+                                    │
+          ┌─────────────────────────▼──────────────────────────────┐
+          │         Prometheus  +  Grafana  +  Actuator             │
+          │         Metrics  ·  Alerts  ·  Health Dashboards        │
+          └─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I'm Building
 
 <div align="center">
 
-[![CognitoCart](https://github-readme-stats.vercel.app/api/pin/?username=manish5200&repo=CognitoCart&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&border_radius=12)](https://github.com/manish5200/CognitoCart)
+```
+  ╔═══════════════════════════════════════════════════════════════════╗
+  ║  🛒  CognitoCart — Production-Grade E-Commerce Backend           ║
+  ╠═══════════════════════════════════════════════════════════════════╣
+  ║                                                                   ║
+  ║  Stack     ▸  Java 21 · Spring Boot 3.x · PostgreSQL · Redis     ║
+  ║  Security  ▸  JWT + OAuth 2.0 (Google) · Bucket4j Rate Limiting  ║
+  ║  Events    ▸  RabbitMQ · Dead Letter Queues · Razorpay Webhooks  ║
+  ║  Features  ▸  Real-time shipment tracking · AI semantic search   ║
+  ║               Seller KYC · PDF invoices · Async email system     ║
+  ║  Observ.   ▸  Prometheus metrics · Actuator health endpoints     ║
+  ║                                                                   ║
+  ║  → github.com/manish5200/CognitoCart                             ║
+  ╚═══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
-
-```
-  CognitoCart — Production-Grade E-Commerce Platform
-  ═══════════════════════════════════════════════════════════════
-  Stack    : Java 21 · Spring Boot 3.x · PostgreSQL · Redis
-  Security : JWT + OAuth 2.0 (Google) · Bucket4j Rate Limiting
-  Events   : RabbitMQ DLQ · Webhook Integration (Razorpay)
-  Features : Real-time shipment tracking · AI semantic search
-             Seller KYC · PDF invoice generation · Email system
-  Observ.  : Prometheus metrics · Actuator health endpoints
-  ═══════════════════════════════════════════════════════════════
-```
 
 ---
 
@@ -323,8 +327,8 @@
 <div align="center">
 
 | Principle | How I Apply It |
-|:---:|---|
-| 🎯 **Design Before Code** | Schema, API contracts, and sequence diagrams before any implementation |
+|:---:|:---|
+| 🎯 **Design Before Code** | Schema, API contracts & sequence diagrams before any implementation |
 | ⚡ **Performance First** | Cache aggressively, index smartly, JOIN FETCH to kill N+1 queries |
 | 🔐 **Security at Every Layer** | JWT + refresh tokens, HMAC webhook signatures, input validation everywhere |
 | 🏛️ **Clean Architecture** | SOLID principles, separation of concerns, typed exceptions always |
@@ -336,7 +340,7 @@
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -346,13 +350,11 @@
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/manish5200/manish5200/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> **Enable the snake:** Add `.github/workflows/snake.yml` using [platane/snk](https://github.com/platane/snk) action.
-
 </div>
 
 ---
 
-## 💬 Today's Engineering Quote
+## 💬 Engineering Quote of the Day
 
 <div align="center">
 
@@ -367,17 +369,17 @@
 <div align="center">
 
 ```
-  ╔════════════════════════════════════════════════════════════╗
-  ║                                                            ║
-  ║   🎯  Actively looking for Backend / SDE roles            ║
-  ║                                                            ║
-  ║   If you are building something ambitious and need         ║
-  ║   someone who thinks in systems, writes production-grade   ║
-  ║   APIs, and cares deeply about performance & resilience —  ║
-  ║                                                            ║
-  ║                    Let's talk. 🤝                          ║
-  ║                                                            ║
-  ╚════════════════════════════════════════════════════════════╝
+  ╔═══════════════════════════════════════════════════════════════╗
+  ║                                                               ║
+  ║   🎯  Open to Backend / SDE Roles & Collaborations           ║
+  ║                                                               ║
+  ║   If you're building something ambitious and need someone     ║
+  ║   who thinks in systems, ships production-grade APIs, and     ║
+  ║   cares deeply about performance, security & resilience —     ║
+  ║                                                               ║
+  ║                     Let's talk. 🤝                            ║
+  ║                                                               ║
+  ╚═══════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
